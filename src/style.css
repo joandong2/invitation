@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+
+body {
+    /* background-image: url('./img/landscape-7283516_1280.jpg');
+    background-size: cover;
+    background-position: center; */
+    background: #f4f5f9;
+}
+
+.font-Birthstone {
+    font-family: "Birthstone Bounce", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
